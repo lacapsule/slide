@@ -78,23 +78,23 @@ main {
 }
 @keyframes slideshow {
     0% {
-        background-image: url('media/img/_MG_0106.JPG');
+        background-image: url('media/img/Capture\ d’écran\ du\ 2022-08-30\ 22-25-02.png');
         background-position: center;
         filter: blur(2px);
     }
     1% {
-        background-image: url('media/img/_MG_0106.JPG');
+        background-image: url('media/img/Capture\ d’écran\ du\ 2022-08-30\ 22-25-02.png');
         background-position: left;
         transform: scale(1.2);
         filter: none;
     }
     2% {
-        background-image: url('media/img/Capture\ d’écran\ du\ 2022-08-30\ 22-25-02.png');
+        background-image: url('media/img/_MG_0106.JPG');
         background-position: left;
         transform: scale(1.2);
     }
     3% {
-        background-image: url('media/img/Capture\ d’écran\ du\ 2022-08-30\ 22-25-02.png');
+        background-image: url('media/img/_MG_0106.JPG');
         background-position: right;
         transform: scale(1);
     }
